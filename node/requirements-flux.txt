@@ -1,0 +1,13 @@
+# Image hops: Ollama cannot run Flux. Diffusers + official Klein 4B weights.
+diffusers>=0.36.0
+transformers>=4.46.0
+accelerate>=1.2.0
+safetensors>=0.4.5
+huggingface_hub>=0.26.0
+pillow>=10.4.0
+protobuf>=5.28.0
+sentencepiece>=0.2.0
+imageio>=2.36.0
+imageio-ffmpeg>=0.5.1
+ftfy>=6.2.0
+einops>=0.8.0
